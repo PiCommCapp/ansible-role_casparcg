@@ -1,0 +1,7 @@
+---
+# defaults file for ansible-role-casparcg
+set_hostname: true
+casparcg_server_hostname: casparcg-server
+
+casparcg_download: 'https://github.com/CasparCG/server'
+
